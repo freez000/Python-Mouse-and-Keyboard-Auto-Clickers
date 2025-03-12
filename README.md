@@ -6,7 +6,7 @@ Simple Python script made with CustomTkinter for an Auto Clicker by freez (bwzv)
 
 Installation Steps: 
 
-1: Clone the repository with Git: **-->** git clone **-- Or --** on Windows, simply download the source code.
+1: Clone the repository with Git: **-->** git clone https://github.com/freez000/Python-Auto-Clicker.git **-- Or --** on Windows, simply download the source code.
 
 2: Install dependencies: **-->** pip install customtkinter pynput
 
